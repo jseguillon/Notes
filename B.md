@@ -26,7 +26,7 @@
 
 ## Multi-stage builds
 
-# Kubernetes
+# Comprendre Kubernetes
 
 ## Installation de k3s
 
@@ -68,6 +68,17 @@
 
 ### Autre TBD
 
+
+# Build, CI et CD
+
+## Buildha
+
+## Helm (obligatoire)
+
+## Argo (pas mieux)
+ (introduit au passaghe les CRDs et les opérateurs ?) 
+
+## Flux ? 
 
 
 
