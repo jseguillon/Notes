@@ -26,20 +26,55 @@
 
 ## Multi-stage builds
 
-# Docker compose
+# Kubernetes
+
+## Installation de k3s
+
+## Composants
+
+### Boucles de réconcialiation
+
+### Metadata, labels et specs
+
+### Il faudrait un sous-chapitre ici pour équilibrer
+
+## Premiers pas
+
+### Run pod
+
+### port-forward
+
+### Service
+
+### Ingress
+
+## Deploiement, StatefullSets Jobs et CronJobs
+
+### Déploiements
+
+## StatefulSets
+
+### Jobs
+
+### CrobJobs
+
+## Objets avancés 
+
+### RBAC
+
+### Netpol
+
+### Autre TBD
+
+### Autre TBD
 
 
 
 
+# Chapitres non retenus 
 
+Docker compose (difficile et pas forcément utile dans une optique docker + Kubernetes?) 
 
-
-# Docker compose
-
-## Installation (?)
-normalement plus rien à faire 
-
-## 
 
 
 
