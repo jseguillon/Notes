@@ -115,6 +115,10 @@ TODO (introduit au passaghe les CRDs et les opérateurs ?)
 ## Flux ? 
 TODO ?
 
+# A placer obligatoirement: 
+
+Kubernetes - une histoire d'API  (OCI, CRI, CSI, CNI): absolument parler des différents plugins réseaux et des limites de flannel
+
 # Chapitres non retenus 
 
 Docker compose (difficile et pas forcément utile dans une optique docker + Kubernetes?) 
