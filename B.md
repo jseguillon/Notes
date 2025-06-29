@@ -1,3 +1,7 @@
+ajouter declaratif vs imperatif, faire installer k9s au lieu du dashboard ? un équivalent pour docker ?
+
+
+
 # Préambule
 
 (des VMs aux conteneurs)
